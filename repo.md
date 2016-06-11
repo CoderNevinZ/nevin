@@ -6,3 +6,6 @@ five line
 six line
 seven line
 eight line words 
+
+### Remote 
+ git remote add origin https://github.com/CoderNevinZ/nevin.git
